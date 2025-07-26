@@ -1,0 +1,15 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "description": "Bot AFK tự nhiên, không chat, tránh bị ban",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tuan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mineflayer": "^4.13.0"
+  }
+}
