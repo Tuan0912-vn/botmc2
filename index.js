@@ -11,8 +11,8 @@ const directions = ['forward', 'back', 'left', 'right'];
 
 function createBot() {
   bot = mineflayer.createBot({
-    host: "3636.playserver.pro",
-    port: 12462,
+    host: "raumanian-36.aternos.me",
+    port: 52119,
     username: "TuanDev",
     version: false
   });
