@@ -13,7 +13,7 @@ function createBot() {
   bot = mineflayer.createBot({
     host: "raumanian-36.aternos.me",
     port: 52119,
-    username: "TuanDev",
+    username: "DevVipProVN",
     version: false
   });
 
